@@ -1,2 +1,2 @@
 # Karen-lab.-programaci-n
-Codigos y hatml que nos da karen para trabajar¿
+Codigos y html que nos da karen para trabajar¿
