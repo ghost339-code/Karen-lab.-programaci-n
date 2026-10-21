@@ -1,0 +1,1 @@
+document.querySelectorAll('.opcion').forEach(function(boton){boton.addEventListener('click',function(){document.getElementById('mensaje').textContent='Agregá aquí la descripción del lugar seleccionado.'})})
